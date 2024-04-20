@@ -5,7 +5,7 @@
 I am thrilled to announce the completion of my latest project - Banky! 🌟
 
 🎯 Project Details: <br>
-Banky is a simulation of a basic banking system that allows users to create accounts, login, deposit and withdraw funds, and transfer funds between accounts. This project provides an opportunity to explore fundamental concepts of object-oriented programming, data persistence using databases, and basic transaction handling.
+Banky is a simulation of a Basic Banking System that allows Users to Create Accounts, Login, Deposit and Withdraw Funds, and Transfer Funds between Accounts. This project provides an opportunity to explore fundamental concepts of Object-Oriented Programming, Data Persistence using Databases, and Basic Transaction Handling.
 
 
 💡 Key Features:<br>
